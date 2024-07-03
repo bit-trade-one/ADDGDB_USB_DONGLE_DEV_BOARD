@@ -4,7 +4,7 @@ ADDGDBは、ATMEGA32U4マイクロコントローラを搭載した高機能USB�
 本製品は、エンジニアやホビイスト、ITセキュリティ専門家にとって理想的な開発ボードです。プロトタイピングのしやすさと安全性を兼ね備えたこのボードで、あなたのアイデアを具現化してください。
 
  
-## [製品HP](https://bit-trade-one.co.jp/product/module/addgdv/)
+## [製品HP](http://bit-trade-one.co.jp/addgdb)
 
 ## [中紙](https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit/blob/master/in_paper/ADDGDV_%E4%B8%AD%E7%B4%99.pdf)
 
